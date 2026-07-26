@@ -1,0 +1,1802 @@
+[
+  {
+    "time": "2026-07-20T00:30:00",
+    "source": "llm",
+    "latency_s": 25.0,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T01:30:00",
+    "source": "llm",
+    "latency_s": 21.95,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T02:30:00",
+    "source": "llm",
+    "latency_s": 15.81,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T03:30:00",
+    "source": "llm",
+    "latency_s": 15.61,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T04:30:00",
+    "source": "llm",
+    "latency_s": 15.75,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T05:30:00",
+    "source": "llm",
+    "latency_s": 15.93,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T06:38:00",
+    "source": "llm",
+    "latency_s": 14.99,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T07:38:00",
+    "source": "llm",
+    "latency_s": 15.73,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for max energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T08:33:00",
+    "source": "llm",
+    "latency_s": 15.77,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T09:38:00",
+    "source": "llm",
+    "latency_s": 15.18,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T10:30:00",
+    "source": "llm",
+    "latency_s": 15.08,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T11:30:00",
+    "source": "llm",
+    "latency_s": 15.82,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T12:30:00",
+    "source": "llm",
+    "latency_s": 13.85,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T13:30:00",
+    "source": "llm",
+    "latency_s": 13.49,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate return.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T14:30:00",
+    "source": "llm",
+    "latency_s": 13.26,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T15:30:00",
+    "source": "llm",
+    "latency_s": 14.83,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T16:30:00",
+    "source": "llm",
+    "latency_s": 14.96,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T17:30:00",
+    "source": "llm",
+    "latency_s": 13.94,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T18:30:00",
+    "source": "llm",
+    "latency_s": 16.41,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-20T19:33:00",
+    "source": "llm",
+    "latency_s": 15.87,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T20:38:00",
+    "source": "llm",
+    "latency_s": 15.81,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T21:38:00",
+    "source": "llm",
+    "latency_s": 15.85,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T22:30:00",
+    "source": "llm",
+    "latency_s": 16.37,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T23:30:00",
+    "source": "llm",
+    "latency_s": 16.11,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T00:30:00",
+    "source": "llm",
+    "latency_s": 57.63,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T01:30:00",
+    "source": "llm",
+    "latency_s": 15.37,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T02:30:00",
+    "source": "llm",
+    "latency_s": 15.37,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T03:30:00",
+    "source": "llm",
+    "latency_s": 15.86,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T04:30:00",
+    "source": "llm",
+    "latency_s": 15.15,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T05:30:00",
+    "source": "llm",
+    "latency_s": 15.38,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T06:30:00",
+    "source": "llm",
+    "latency_s": 14.29,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T07:38:00",
+    "source": "llm",
+    "latency_s": 18.87,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T08:33:00",
+    "source": "llm",
+    "latency_s": 18.27,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T09:38:00",
+    "source": "llm",
+    "latency_s": 18.04,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T10:30:00",
+    "source": "llm",
+    "latency_s": 17.71,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T11:30:00",
+    "source": "llm",
+    "latency_s": 14.9,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T12:30:00",
+    "source": "llm",
+    "latency_s": 16.09,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T13:30:00",
+    "source": "llm",
+    "latency_s": 18.12,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T14:30:00",
+    "source": "llm",
+    "latency_s": 18.53,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T15:30:00",
+    "source": "llm",
+    "latency_s": 15.48,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T16:30:00",
+    "source": "llm",
+    "latency_s": 14.61,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T17:30:00",
+    "source": "llm",
+    "latency_s": 17.71,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T18:30:00",
+    "source": "llm",
+    "latency_s": 20.99,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-21T19:34:00",
+    "source": "llm",
+    "latency_s": 21.2,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T20:38:00",
+    "source": "llm",
+    "latency_s": 18.7,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T21:38:00",
+    "source": "llm",
+    "latency_s": 17.95,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T22:30:00",
+    "source": "llm",
+    "latency_s": 19.65,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T23:30:00",
+    "source": "llm",
+    "latency_s": 19.25,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T00:30:00",
+    "source": "llm",
+    "latency_s": 7.13,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T01:30:00",
+    "source": "llm",
+    "latency_s": 17.49,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T02:30:00",
+    "source": "llm",
+    "latency_s": 16.08,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T03:30:00",
+    "source": "llm",
+    "latency_s": 16.3,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T04:30:00",
+    "source": "llm",
+    "latency_s": 16.39,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T05:30:00",
+    "source": "llm",
+    "latency_s": 16.09,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T06:30:00",
+    "source": "llm",
+    "latency_s": 17.03,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T07:30:00",
+    "source": "llm",
+    "latency_s": 18.45,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T08:33:00",
+    "source": "llm",
+    "latency_s": 18.06,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T09:38:00",
+    "source": "llm",
+    "latency_s": 19.53,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T10:30:00",
+    "source": "llm",
+    "latency_s": 17.16,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T11:30:00",
+    "source": "llm",
+    "latency_s": 18.39,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T12:30:00",
+    "source": "llm",
+    "latency_s": 17.67,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T13:30:00",
+    "source": "llm",
+    "latency_s": 23.86,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T14:30:00",
+    "source": "llm",
+    "latency_s": 17.18,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T15:30:00",
+    "source": "llm",
+    "latency_s": 15.75,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T16:30:00",
+    "source": "llm",
+    "latency_s": 16.25,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T17:30:00",
+    "source": "llm",
+    "latency_s": 15.69,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T18:30:00",
+    "source": "llm",
+    "latency_s": 15.67,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-22T19:38:00",
+    "source": "llm",
+    "latency_s": 16.0,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T20:38:00",
+    "source": "llm",
+    "latency_s": 15.34,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T21:30:00",
+    "source": "llm",
+    "latency_s": 15.31,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T22:30:00",
+    "source": "llm",
+    "latency_s": 15.08,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T23:30:00",
+    "source": "llm",
+    "latency_s": 16.87,
+    "cooling_setpoint": 27.6,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T00:30:00",
+    "source": "llm",
+    "latency_s": 59.48,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T01:30:00",
+    "source": "llm",
+    "latency_s": 15.85,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T02:30:00",
+    "source": "llm",
+    "latency_s": 15.54,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T03:30:00",
+    "source": "llm",
+    "latency_s": 15.56,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T04:30:00",
+    "source": "llm",
+    "latency_s": 15.03,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T05:30:00",
+    "source": "llm",
+    "latency_s": 15.22,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T06:30:00",
+    "source": "llm",
+    "latency_s": 13.91,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T07:30:00",
+    "source": "llm",
+    "latency_s": 19.15,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while, widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T08:33:00",
+    "source": "llm",
+    "latency_s": 16.52,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy change.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T09:35:00",
+    "source": "llm",
+    "latency_s": 17.08,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T10:30:00",
+    "source": "llm",
+    "latency_s": 17.41,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T11:30:00",
+    "source": "llm",
+    "latency_s": 13.85,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T12:30:00",
+    "source": "llm",
+    "latency_s": 17.04,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with potential occupancy within 2 hours.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T13:30:00",
+    "source": "llm",
+    "latency_s": 18.05,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T14:30:00",
+    "source": "llm",
+    "latency_s": 17.38,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T15:30:00",
+    "source": "llm",
+    "latency_s": 17.15,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T16:30:00",
+    "source": "llm",
+    "latency_s": 16.79,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T17:30:00",
+    "source": "llm",
+    "latency_s": 15.69,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T18:30:00",
+    "source": "llm",
+    "latency_s": 17.72,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for max energy saving.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-23T19:38:00",
+    "source": "llm",
+    "latency_s": 18.35,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T20:38:00",
+    "source": "llm",
+    "latency_s": 17.47,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T21:30:00",
+    "source": "llm",
+    "latency_s": 16.78,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T22:30:00",
+    "source": "llm",
+    "latency_s": 16.83,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T23:30:00",
+    "source": "llm",
+    "latency_s": 16.56,
+    "cooling_setpoint": 27.3,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T00:30:00",
+    "source": "llm",
+    "latency_s": 54.09,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T01:30:00",
+    "source": "llm",
+    "latency_s": 12.26,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T02:30:00",
+    "source": "llm",
+    "latency_s": 12.66,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T03:30:00",
+    "source": "llm",
+    "latency_s": 11.99,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T04:30:00",
+    "source": "llm",
+    "latency_s": 11.96,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T05:30:00",
+    "source": "llm",
+    "latency_s": 12.94,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T06:30:00",
+    "source": "llm",
+    "latency_s": 11.3,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T07:38:00",
+    "source": "llm",
+    "latency_s": 12.2,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T08:30:00",
+    "source": "llm",
+    "latency_s": 12.11,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T09:30:00",
+    "source": "llm",
+    "latency_s": 12.14,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T10:30:00",
+    "source": "llm",
+    "latency_s": 12.04,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T11:38:00",
+    "source": "llm",
+    "latency_s": 11.77,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T12:30:00",
+    "source": "llm",
+    "latency_s": 12.05,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while with no immediate occupancy resumption.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T13:30:00",
+    "source": "llm",
+    "latency_s": 12.28,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T14:30:00",
+    "source": "llm",
+    "latency_s": 12.07,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T15:30:00",
+    "source": "llm",
+    "latency_s": 11.96,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T16:30:00",
+    "source": "llm",
+    "latency_s": 12.02,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T17:30:00",
+    "source": "llm",
+    "latency_s": 12.19,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T18:30:00",
+    "source": "llm",
+    "latency_s": 12.22,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": [
+      "occupied_comfort_cap"
+    ]
+  },
+  {
+    "time": "2026-07-24T19:30:00",
+    "source": "llm",
+    "latency_s": 12.37,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T20:30:00",
+    "source": "llm",
+    "latency_s": 12.2,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T21:30:00",
+    "source": "llm",
+    "latency_s": 11.77,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T22:30:00",
+    "source": "llm",
+    "latency_s": 12.67,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T23:30:00",
+    "source": "llm",
+    "latency_s": 11.75,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T00:30:00",
+    "source": "llm",
+    "latency_s": 44.26,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T01:30:00",
+    "source": "llm",
+    "latency_s": 12.25,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T02:30:00",
+    "source": "llm",
+    "latency_s": 11.79,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T03:30:00",
+    "source": "llm",
+    "latency_s": 11.79,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T04:30:00",
+    "source": "llm",
+    "latency_s": 11.76,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T05:30:00",
+    "source": "llm",
+    "latency_s": 11.66,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T06:30:00",
+    "source": "llm",
+    "latency_s": 12.04,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T07:38:00",
+    "source": "llm",
+    "latency_s": 11.94,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T08:38:00",
+    "source": "llm",
+    "latency_s": 11.98,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T09:38:00",
+    "source": "llm",
+    "latency_s": 11.98,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T10:30:00",
+    "source": "llm",
+    "latency_s": 12.18,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T11:38:00",
+    "source": "llm",
+    "latency_s": 11.47,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T12:30:00",
+    "source": "llm",
+    "latency_s": 12.03,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T13:30:00",
+    "source": "llm",
+    "latency_s": 12.02,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T14:30:00",
+    "source": "llm",
+    "latency_s": 12.59,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T15:30:00",
+    "source": "llm",
+    "latency_s": 12.07,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T16:30:00",
+    "source": "llm",
+    "latency_s": 12.06,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T17:30:00",
+    "source": "llm",
+    "latency_s": 11.95,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T18:30:00",
+    "source": "llm",
+    "latency_s": 11.99,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T19:30:00",
+    "source": "llm",
+    "latency_s": 11.51,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T20:30:00",
+    "source": "llm",
+    "latency_s": 11.68,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T21:30:00",
+    "source": "llm",
+    "latency_s": 12.19,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T22:30:00",
+    "source": "llm",
+    "latency_s": 11.75,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T23:30:00",
+    "source": "llm",
+    "latency_s": 11.95,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T00:30:00",
+    "source": "llm",
+    "latency_s": 43.14,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T01:30:00",
+    "source": "llm",
+    "latency_s": 13.54,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T02:30:00",
+    "source": "llm",
+    "latency_s": 12.6,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T03:30:00",
+    "source": "llm",
+    "latency_s": 12.84,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T04:30:00",
+    "source": "llm",
+    "latency_s": 12.81,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T05:30:00",
+    "source": "llm",
+    "latency_s": 12.53,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T06:30:00",
+    "source": "llm",
+    "latency_s": 12.46,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T07:38:00",
+    "source": "llm",
+    "latency_s": 12.03,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T08:33:00",
+    "source": "llm",
+    "latency_s": 12.05,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T09:35:00",
+    "source": "llm",
+    "latency_s": 12.29,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T10:38:00",
+    "source": "llm",
+    "latency_s": 12.12,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T11:38:00",
+    "source": "llm",
+    "latency_s": 12.21,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T12:30:00",
+    "source": "llm",
+    "latency_s": 12.07,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T13:30:00",
+    "source": "llm",
+    "latency_s": 10.04,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T14:30:00",
+    "source": "llm",
+    "latency_s": 10.1,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T15:30:00",
+    "source": "llm",
+    "latency_s": 12.82,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T16:30:00",
+    "source": "llm",
+    "latency_s": 12.37,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T17:30:00",
+    "source": "llm",
+    "latency_s": 10.4,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T18:30:00",
+    "source": "llm",
+    "latency_s": 12.53,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T19:38:00",
+    "source": "llm",
+    "latency_s": 12.8,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": true,
+    "reason": "deep_setback: Unoccupied for a while with no immediate return.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T20:38:00",
+    "source": "llm",
+    "latency_s": 12.43,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": true,
+    "reason": "deep_setback: Unoccupied for a while with potential free cooling.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T21:38:00",
+    "source": "llm",
+    "latency_s": 12.43,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T22:30:00",
+    "source": "llm",
+    "latency_s": 14.92,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-26T23:30:00",
+    "source": "llm",
+    "latency_s": 12.15,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while; widen setpoints for maximum energy saving.",
+    "safety": null
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "llm_calls": 26,
+  "avg_latency_s": 17.2,
+  "decisions": {
+    "llm": 24,
+    "cache": 0,
+    "fallback": 0
+  },
+  "llm_driven_fraction": 1.0,
+  "cache_hits": 0,
+  "cache_misses": 24,
+  "hit_rate": 0.0,
+  "unique_decisions": 24,
+  "self_corrections": 2,
+  "reflections": 0,
+  "final_policy": "setpoint_reset_margin_c=0.00, precool_margin_c=1.50, deep_setback_cool_c=28.00, deep_setback_heat_c=18.00",
+  "recent_errors": []
+}

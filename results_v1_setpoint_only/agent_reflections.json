@@ -1,0 +1,134 @@
+[
+  {
+    "day": "2026-07-21",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 27.5,
+    "old_value": 28.0,
+    "applied_value": 27.5,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To slightly reduce the setback temperature when occupied to ensure better comfort without compromising energy savings.",
+    "day_stats": {
+      "day": "2026-07-20",
+      "kwh": 53.59014615694905,
+      "violations": 19,
+      "occupied_zone_steps": 245,
+      "mean_pmv": 0.08181465477422903
+    },
+    "latency_s": 47.49
+  },
+  {
+    "day": "2026-07-22",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 27.55,
+    "old_value": 27.5,
+    "applied_value": 27.55,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To slightly reduce the setback temperature during occupied hours to ensure better comfort without violating it.",
+    "day_stats": {
+      "day": "2026-07-21",
+      "kwh": 54.070571358281,
+      "violations": 18,
+      "occupied_zone_steps": 245,
+      "mean_pmv": 0.08153446281242123
+    },
+    "latency_s": 56.63
+  },
+  {
+    "day": "2026-07-23",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 27.3,
+    "old_value": 27.55,
+    "applied_value": 27.3,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To slightly reduce the setback temperature when occupied to ensure better comfort without violating it.",
+    "day_stats": {
+      "day": "2026-07-22",
+      "kwh": 50.81149161343957,
+      "violations": 22,
+      "occupied_zone_steps": 245,
+      "mean_pmv": 0.06136216305270266
+    },
+    "latency_s": 56.74
+  },
+  {
+    "day": "2026-07-24",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 28.5,
+    "old_value": 27.3,
+    "applied_value": 28.5,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To ensure occupant comfort during the morning when they arrive and start using the space.",
+    "day_stats": {
+      "day": "2026-07-23",
+      "kwh": 46.12654160152687,
+      "violations": 31,
+      "occupied_zone_steps": 245,
+      "mean_pmv": 0.003723470669046232
+    },
+    "latency_s": 51.93
+  },
+  {
+    "day": "2026-07-25",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 28.75,
+    "old_value": 28.5,
+    "applied_value": 28.75,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To ensure comfort in the morning when people arrive, slightly increase the setback temperature to be more conservative.",
+    "day_stats": {
+      "day": "2026-07-24",
+      "kwh": 14.967375211297735,
+      "violations": 34,
+      "occupied_zone_steps": 245,
+      "mean_pmv": -0.12538601709986502
+    },
+    "latency_s": 36.3
+  },
+  {
+    "day": "2026-07-26",
+    "parameter": "deep_setback_cool_c",
+    "requested_value": 29.0,
+    "old_value": 28.75,
+    "applied_value": 29.0,
+    "bounds": [
+      27.0,
+      30.0
+    ],
+    "was_clamped": false,
+    "accepted": true,
+    "justification": "To slightly increase cooling setpoints and potentially reduce energy usage without compromising comfort.",
+    "day_stats": {
+      "day": "2026-07-25",
+      "kwh": 1.458380926183679,
+      "violations": 0,
+      "occupied_zone_steps": 0,
+      "mean_pmv": 0.0
+    },
+    "latency_s": 8.97
+  }
+]

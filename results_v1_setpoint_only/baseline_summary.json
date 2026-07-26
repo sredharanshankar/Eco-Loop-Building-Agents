@@ -1,0 +1,19 @@
+{
+  "tag": "baseline",
+  "backend": "energyplus",
+  "controller": "baseline",
+  "steps": 672,
+  "total_kwh": 333.95,
+  "total_cost_usd": 91.9,
+  "total_co2_kg": 81.94,
+  "peak_demand_kw": 7.01,
+  "occupied_zone_steps": 1200,
+  "comfort_violation_zone_steps": 137,
+  "comfort_ok_rate": 0.8858,
+  "mean_pmv_occupied": -0.63,
+  "max_abs_pmv_occupied": 1.349,
+  "decision_sources": {
+    "init": 1,
+    "baseline": 671
+  }
+}

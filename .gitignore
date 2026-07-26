@@ -1,0 +1,34 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# EnergyPlus run scratch (large, regenerated every run). The AI-modified model itself
+# is preserved as models/ai_runtime_generated.idf, so nothing here is a deliverable.
+results/ep/
+*.eso
+*.mtr
+*.eio
+*.rdd
+*.mdd
+*.audit
+*.bnd
+*.shd
+*.sql
+eplusout.*
+
+# NOTE: results/ is deliberately NOT ignored — the savings dashboard, run summaries,
+# agent decision/reflection logs and the chaos report are submission evidence.
+
+# Slide deck and video script are uploaded to the portal separately, not via the repo.
+presentation/
+
+# docs/: the System Architecture Document is a required deliverable and IS tracked.
+# The generated PDF and its build script are not — they are rebuildable artefacts.
+docs/*
+!docs/ARCHITECTURE.md
+!docs/architecture_diagram.svg

@@ -1,0 +1,9 @@
+# Eco-Loop Building Agents — Python dependencies (Python 3.10+)
+# NOTE: the EnergyPlus Python API (pyenergyplus) ships WITH EnergyPlus (v24+),
+# it is not a pip package. Install EnergyPlus and the backend adds it to sys.path.
+openai>=1.30          # OpenAI-compatible client for the local Ollama LLM
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+# Local LLM runtime (install separately): Ollama  -> `ollama pull qwen2.5:3b`

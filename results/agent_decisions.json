@@ -1,0 +1,966 @@
+[
+  {
+    "time": "2026-07-20T00:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T01:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T02:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T03:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T04:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T05:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T06:38:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: building is empty, so lights, equipment and fresh air are dialled down",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-20T07:38:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T08:33:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T09:38:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T10:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T11:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T12:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T13:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: holding the warm edge of comfort instead of overcooling",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T14:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: power is at its most expensive, so coasting and trimming load",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T15:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: power is at its most expensive, so coasting and trimming load",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T16:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: power is at its most expensive, so coasting and trimming load",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T17:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: power is at its most expensive, so coasting and trimming load",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T18:30:00",
+    "source": "fallback",
+    "latency_s": 60.0,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: power is at its most expensive, so coasting and trimming load",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T19:34:00",
+    "source": "llm",
+    "latency_s": 30.69,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy due to expensive grid carbon.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T20:38:00",
+    "source": "llm",
+    "latency_s": 20.58,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during off-peak hours with dirty grid.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T21:30:00",
+    "source": "llm",
+    "latency_s": 18.06,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T22:30:00",
+    "source": "llm",
+    "latency_s": 18.01,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-20T23:30:00",
+    "source": "llm",
+    "latency_s": 17.02,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T00:30:00",
+    "source": "llm",
+    "latency_s": 7.5,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T01:30:00",
+    "source": "llm",
+    "latency_s": 15.84,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T02:30:00",
+    "source": "llm",
+    "latency_s": 15.34,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T03:30:00",
+    "source": "llm",
+    "latency_s": 15.29,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while (max saving).",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T04:30:00",
+    "source": "llm",
+    "latency_s": 14.98,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T05:30:00",
+    "source": "llm",
+    "latency_s": 15.21,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T06:30:00",
+    "source": "llm",
+    "latency_s": 14.9,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-21T07:38:00",
+    "source": "llm",
+    "latency_s": 16.93,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T08:33:00",
+    "source": "llm",
+    "latency_s": 16.79,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T09:38:00",
+    "source": "llm",
+    "latency_s": 16.49,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2 hours.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T10:30:00",
+    "source": "llm",
+    "latency_s": 16.39,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now with people, default strategy is to run at warm comfort edge.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T11:30:00",
+    "source": "llm",
+    "latency_s": 14.19,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: Occupied now with people in the building, running at warm comfort edge to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T12:30:00",
+    "source": "llm",
+    "latency_s": 15.55,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak within the next hour, coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T13:30:00",
+    "source": "llm",
+    "latency_s": 18.66,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak within the next hour, coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T14:30:00",
+    "source": "llm",
+    "latency_s": 17.99,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now with people, default strategy for occupied conditions during a price peak",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T15:30:00",
+    "source": "llm",
+    "latency_s": 19.9,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now, people in the building; running warm at comfort edge to save energy",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T16:30:00",
+    "source": "llm",
+    "latency_s": 19.83,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now, people in the building; default strategy is to run at warm comfort edge.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T17:33:00",
+    "source": "llm",
+    "latency_s": 17.55,
+    "cooling_setpoint": 24.5,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "precool: Occupancy resumes within ~2h during price peak.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T18:33:00",
+    "source": "llm",
+    "latency_s": 19.98,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now with people, price peak within 2 hours but not free cooling available, reducing non-essential loads to save electricity.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-21T19:35:00",
+    "source": "llm",
+    "latency_s": 19.89,
+    "cooling_setpoint": 27.5,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to widen setpoints (max saving), grid is dirty with high gCO2/kWh.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T08:32:00",
+    "source": "llm",
+    "latency_s": 7.23,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T13:30:00",
+    "source": "llm",
+    "latency_s": 15.48,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak within the next hour, coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T17:33:00",
+    "source": "llm",
+    "latency_s": 14.93,
+    "cooling_setpoint": 24.5,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "precool: Peak price within 2 hours - bank cooling first.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T18:34:00",
+    "source": "llm",
+    "latency_s": 15.05,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak: coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T19:38:00",
+    "source": "llm",
+    "latency_s": 15.52,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T20:38:00",
+    "source": "llm",
+    "latency_s": 14.9,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while due to high carbon emissions.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T21:30:00",
+    "source": "llm",
+    "latency_s": 14.73,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T22:30:00",
+    "source": "llm",
+    "latency_s": 14.57,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-22T23:30:00",
+    "source": "llm",
+    "latency_s": 15.1,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for more than 2 hours.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T00:30:00",
+    "source": "llm",
+    "latency_s": 47.07,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for more than 2 hours.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T01:30:00",
+    "source": "llm",
+    "latency_s": 18.37,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T02:30:00",
+    "source": "llm",
+    "latency_s": 21.27,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while (max saving).",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T03:30:00",
+    "source": "llm",
+    "latency_s": 15.23,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T04:30:00",
+    "source": "llm",
+    "latency_s": 14.77,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T05:30:00",
+    "source": "llm",
+    "latency_s": 16.93,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T06:30:00",
+    "source": "llm",
+    "latency_s": 15.86,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-23T09:35:00",
+    "source": "llm",
+    "latency_s": 19.64,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T10:30:00",
+    "source": "llm",
+    "latency_s": 17.26,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T11:30:00",
+    "source": "llm",
+    "latency_s": 18.71,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: People are in the building and occupancy resumes within 2h.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T12:30:00",
+    "source": "llm",
+    "latency_s": 16.81,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak within 2 hours - coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T14:30:00",
+    "source": "llm",
+    "latency_s": 16.52,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now, people in the building; running warm at comfort edge to save energy",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T15:30:00",
+    "source": "llm",
+    "latency_s": 16.06,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now, people in the building; running warm at comfort edge to save energy",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T16:30:00",
+    "source": "llm",
+    "latency_s": 18.22,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: occupied now, people in the building; default strategy is to run at warm comfort edge.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-23T18:33:00",
+    "source": "llm",
+    "latency_s": 16.96,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak: run at ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T07:38:00",
+    "source": "llm",
+    "latency_s": 7.12,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "setpoint_reset: mid price tier, people in the building, default occupied strategy",
+    "safety": null
+  },
+  {
+    "time": "2026-07-24T12:38:00",
+    "source": "llm",
+    "latency_s": 15.19,
+    "cooling_setpoint": 26.0,
+    "heating_setpoint": 21.0,
+    "economizer": false,
+    "reason": "peak_coast: Price peak within the next hour; coast at the ceiling to shed demand.",
+    "safety": null
+  },
+  {
+    "time": "2026-07-25T07:38:00",
+    "source": "llm",
+    "latency_s": 8.22,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T08:38:00",
+    "source": "llm",
+    "latency_s": 17.63,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Building is unoccupied for a while.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T09:38:00",
+    "source": "llm",
+    "latency_s": 17.38,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Building is unoccupied for a while.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T10:30:00",
+    "source": "llm",
+    "latency_s": 17.76,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to widen setpoints (max saving)",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T11:38:00",
+    "source": "llm",
+    "latency_s": 16.9,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T12:30:00",
+    "source": "llm",
+    "latency_s": 18.55,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during peak electricity prices.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T13:30:00",
+    "source": "llm",
+    "latency_s": 20.6,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Peak CO2 (438ppm) and dirty grid (156gCO2/kWh) indicate expensive electricity, warranting deep setback to save energy.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T14:30:00",
+    "source": "llm",
+    "latency_s": 16.97,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T15:30:00",
+    "source": "llm",
+    "latency_s": 17.09,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T16:30:00",
+    "source": "llm",
+    "latency_s": 18.8,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: unoccupied and empty for a while (max saving).",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T17:30:00",
+    "source": "llm",
+    "latency_s": 19.63,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during peak electricity prices and dirty grid.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-25T18:30:00",
+    "source": "llm",
+    "latency_s": 19.85,
+    "cooling_setpoint": 27.8,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to maximize energy savings.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T10:38:00",
+    "source": "llm",
+    "latency_s": 8.65,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy and reduce carbon impact.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T12:30:00",
+    "source": "llm",
+    "latency_s": 17.43,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Peak electricity tier (mid) with occupancy within 2 hours.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T13:30:00",
+    "source": "llm",
+    "latency_s": 16.63,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during expensive peak hours.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T15:30:00",
+    "source": "llm",
+    "latency_s": 16.73,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for more than 2 hours.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T17:30:00",
+    "source": "llm",
+    "latency_s": 16.6,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during peak electricity prices and dirty grid.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  },
+  {
+    "time": "2026-07-26T18:38:00",
+    "source": "llm",
+    "latency_s": 15.72,
+    "cooling_setpoint": 28.0,
+    "heating_setpoint": 18.0,
+    "economizer": false,
+    "reason": "deep_setback: Unoccupied for a while to save energy during peak electricity prices and dirty grid.",
+    "safety": [
+      "lighting_floor",
+      "plug_floor",
+      "ventilation_floor"
+    ]
+  }
+]

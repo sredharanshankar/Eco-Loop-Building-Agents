@@ -1,0 +1,20 @@
+{
+  "tag": "agent",
+  "backend": "energyplus",
+  "controller": "agent",
+  "steps": 672,
+  "total_kwh": 255.77,
+  "total_cost_usd": 73.67,
+  "total_co2_kg": 66.33,
+  "peak_demand_kw": 6.1,
+  "occupied_zone_steps": 1225,
+  "comfort_violation_zone_steps": 124,
+  "comfort_ok_rate": 0.8988,
+  "mean_pmv_occupied": 0.021,
+  "max_abs_pmv_occupied": 1.334,
+  "decision_sources": {
+    "init": 1,
+    "llm": 168,
+    "held": 503
+  }
+}

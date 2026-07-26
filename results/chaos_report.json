@@ -1,0 +1,58 @@
+{
+  "passed": 5,
+  "total": 5,
+  "scenarios": [
+    {
+      "scenario": "llm_unreachable",
+      "passed": true,
+      "steps_completed": 193,
+      "steps_expected": 192,
+      "fallback_decisions": 49,
+      "total_kwh": 466.68,
+      "comfort": "comfort-OK 100.0%, max |PMV| 0.264",
+      "note": "loop completed on the deterministic fallback controller",
+      "duration_s": 0.3
+    },
+    {
+      "scenario": "llm_timeout",
+      "passed": true,
+      "steps_completed": 193,
+      "steps_expected": 192,
+      "fallback_decisions": 49,
+      "total_kwh": 466.68,
+      "comfort": "comfort-OK 100.0%, max |PMV| 0.264",
+      "note": "loop completed on the deterministic fallback controller",
+      "duration_s": 0.3
+    },
+    {
+      "scenario": "malformed_tool_args",
+      "passed": true,
+      "cases": 6,
+      "handled_as_tool_error": 6,
+      "exceptions_raised": 0,
+      "note": "invalid arguments return a structured tool error the model can self-correct on",
+      "duration_s": 0.0
+    },
+    {
+      "scenario": "adversarial_actions",
+      "passed": true,
+      "steps_completed": 193,
+      "steps_expected": 192,
+      "envelope_violations": 0,
+      "examples": [],
+      "comfort": "comfort-OK 100.0%, max |PMV| 0.629",
+      "note": "SafetyGuard clamped NaN/inf/inverted/absurd setpoints every step",
+      "duration_s": 0.0
+    },
+    {
+      "scenario": "policy_fuzz",
+      "passed": true,
+      "iterations": 400,
+      "bound_escapes": 0,
+      "exceptions_raised": 0,
+      "final_policy": "setpoint_reset_margin_c=1.00, precool_margin_c=0.50, deep_setback_cool_c=26.00, deep_setback_heat_c=20.00",
+      "note": "self-critique knobs stayed inside their safe bounds under adversarial input",
+      "duration_s": 0.0
+    }
+  ]
+}

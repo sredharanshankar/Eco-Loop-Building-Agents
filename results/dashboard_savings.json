@@ -1,0 +1,19 @@
+{
+  "baseline_kwh": 1020.32,
+  "ai_kwh": 796.39,
+  "kwh_pct": 21.9,
+  "baseline_cost": 266.82,
+  "ai_cost": 212.5,
+  "cost_pct": 20.4,
+  "baseline_co2": 258.63,
+  "ai_co2": 196.19,
+  "co2_pct": 24.1,
+  "baseline_peak_kw": 19.0,
+  "ai_peak_kw": 18.19,
+  "peak_pct": 4.3,
+  "baseline_comfort_ok": 0.8858,
+  "ai_comfort_ok": 0.8921,
+  "baseline_mean_pmv": -0.63,
+  "ai_mean_pmv": -0.025,
+  "comfort_maintained": true
+}

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" font-family="Segoe UI, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Eco-Loop closed-loop control architecture</title>
+  <desc id="d">EnergyPlus streams feedback to an LLM agent, which chooses an ECM strategy that a safety guard turns into setpoints injected back into EnergyPlus every timestep.</desc>
+  <defs>
+    <marker id="arw" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#2a7f62"/>
+    </marker>
+    <marker id="arwb" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#2f6fb0"/>
+    </marker>
+    <marker id="arwa" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#c07a1e"/>
+    </marker>
+  </defs>
+
+  <text x="480" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#1c2430">Eco-Loop Building Agents — Autonomous Closed-Loop Control</text>
+  <text x="480" y="62" text-anchor="middle" font-size="13" fill="#6b7280">Open-source LLM (MCP tool-calling) drives a live EnergyPlus building, every timestep</text>
+
+  <!-- EnergyPlus node -->
+  <rect x="70" y="150" width="250" height="150" rx="14" fill="#eaf5ef" stroke="#2a7f62" stroke-width="2"/>
+  <text x="195" y="196" text-anchor="middle" font-size="18" font-weight="700" fill="#1c2430">EnergyPlus</text>
+  <text x="195" y="220" text-anchor="middle" font-size="12.5" fill="#37506a">digital building twin (v26 API)</text>
+  <text x="195" y="252" text-anchor="middle" font-size="11.5" fill="#5b6b7b">5-zone office · ideal-loads HVAC</text>
+  <text x="195" y="272" text-anchor="middle" font-size="11.5" fill="#5b6b7b">push→pull threaded bridge</text>
+
+  <!-- LLM agent node -->
+  <rect x="640" y="150" width="250" height="150" rx="14" fill="#eaf1f8" stroke="#2f6fb0" stroke-width="2"/>
+  <text x="765" y="196" text-anchor="middle" font-size="18" font-weight="700" fill="#1c2430">LLM Agent</text>
+  <text x="765" y="220" text-anchor="middle" font-size="12.5" fill="#37506a">Ollama · qwen2.5:3b</text>
+  <text x="765" y="252" text-anchor="middle" font-size="11.5" fill="#5b6b7b">MCP tools · sense → reason</text>
+  <text x="765" y="272" text-anchor="middle" font-size="11.5" fill="#5b6b7b">picks 1 ECM strategy</text>
+
+  <!-- Safety guard node -->
+  <rect x="355" y="360" width="250" height="88" rx="14" fill="#fbf1e2" stroke="#c07a1e" stroke-width="2"/>
+  <text x="480" y="396" text-anchor="middle" font-size="16" font-weight="700" fill="#1c2430">Safety Guard</text>
+  <text x="480" y="418" text-anchor="middle" font-size="11.5" fill="#5b6b7b">hard envelope · occupied comfort cap</text>
+  <text x="480" y="435" text-anchor="middle" font-size="11.5" fill="#5b6b7b">heuristic fallback (never stalls)</text>
+
+  <!-- FEEDBACK arrow: EnergyPlus -> Agent (top) -->
+  <path d="M320,190 C460,120 620,120 640,188" fill="none" stroke="#2a7f62" stroke-width="2.5" marker-end="url(#arw)"/>
+  <text x="480" y="118" text-anchor="middle" font-size="12.5" font-weight="600" fill="#2a7f62">FEEDBACK  (EnergyPlus → AI)</text>
+  <text x="480" y="136" text-anchor="middle" font-size="11" fill="#5b6b7b">zone temps · HVAC energy · PMV comfort · CO₂ · price / carbon</text>
+
+  <!-- ACT arrow: Agent -> Safety -->
+  <path d="M700,300 C640,352 610,360 588,372" fill="none" stroke="#2f6fb0" stroke-width="2.5" marker-end="url(#arwb)"/>
+  <text x="700" y="352" text-anchor="middle" font-size="11.5" font-weight="600" fill="#2f6fb0">set_control</text>
+  <text x="700" y="368" text-anchor="middle" font-size="10.5" fill="#5b6b7b">ECM strategy</text>
+
+  <!-- INJECTION arrow: Safety -> EnergyPlus -->
+  <path d="M372,372 C300,360 260,352 240,302" fill="none" stroke="#c07a1e" stroke-width="2.5" marker-end="url(#arwa)"/>
+  <text x="245" y="352" text-anchor="middle" font-size="11.5" font-weight="600" fill="#c07a1e">FORWARD INJECTION</text>
+  <text x="255" y="368" text-anchor="middle" font-size="10.5" fill="#5b6b7b">setpoint actuators</text>
+
+  <!-- outcome strip -->
+  <rect x="70" y="150" width="0" height="0"/>
+  <text x="480" y="470" text-anchor="middle" font-size="12" fill="#2a7f62" font-weight="600">Result: −16.6% HVAC energy · peak −13% · thermal comfort maintained (real EnergyPlus, LLM-driven)</text>
+</svg>
