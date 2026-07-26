@@ -1,4 +1,4 @@
-# Eco-Loop Building Agents 🏢🔁🤖
+# Eco-Loop Building Agents 
 
 **An autonomous closed-loop building controller: an open-source LLM (via MCP-style tool-calling)
 drives a live EnergyPlus simulation in real time — reading sensor feedback, reasoning about
